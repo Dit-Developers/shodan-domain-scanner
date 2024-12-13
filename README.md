@@ -60,13 +60,13 @@ bash shodan-domain-scanner.sh
 ```
 
 ## Developer
-<ul>
-  Developer Information <br>
-  Name: Muhammad Sudai Usmani  <br>
-  Email: msusuport@gmail.com  <br>
-  LinkedIn : <a href="https://www.linkedin.com/in/muhammad-sudais-usmani-950889311/">Muhammad Sudais Usmani </a> <br>
-  Youtube : <a href="https://www.youtube.com/@cyberninja78">Youtube Channel</a>
-  GitHub: <a href="https://github.com/Dit-Developers">Dit-Developer</a>  <br>
-  Portfolio: <a href="https://msu-portfolio.vercel.app">MSU Portfolio</a> <br>
-</ul>
+<li>
+  <li>Developer Information <br></li>
+  <li>Name: Muhammad Sudai Usmani  <br></li>
+  <li>Email: msusuport@gmail.com  <br></li>
+  <li>LinkedIn : <a href="https://www.linkedin.com/in/muhammad-sudais-usmani-950889311/">Muhammad Sudais Usmani </a> <br></li>
+  <li>Youtube : <a href="https://www.youtube.com/@cyberninja78">Youtube Channel</a> <br></li>
+  <li>GitHub: <a href="https://github.com/Dit-Developers">Dit-Developer</a>  <br></li>
+  <li>Portfliio: <a href="https://msu-portfliio.vercel.app">MSU Portfliio</a> <br></li>
+</li>
 
