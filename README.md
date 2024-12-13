@@ -50,12 +50,22 @@ This script automates the process of querying domains on Shodan, extracting IP a
   </li>
 </ul>
 
+## Download 
+```bash
+git clone https://github.com/Dit-Developers/shodan-domain-scanner
+cd shodan-domain-scanner
+sudo su
+chmod +x shodan-domain-scanner.sh
+bash shodan-domain-scanner.sh
+```
 
 ## Developer
 <ul>
   Developer Information <br>
   Name: Muhammad Sudai Usmani  <br>
   Email: msusuport@gmail.com  <br>
+  LinkedIn : <a href="https://www.linkedin.com/in/muhammad-sudais-usmani-950889311/">Muhammad Sudais Usmani </a> <br>
+  Youtube : <a href="https://www.youtube.com/@cyberninja78">Youtube Channel</a>
   GitHub: <a href="https://github.com/Dit-Developers">Dit-Developer</a>  <br>
   Portfolio: <a href="https://msu-portfolio.vercel.app">MSU Portfolio</a> <br>
 </ul>
